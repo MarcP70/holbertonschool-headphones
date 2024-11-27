@@ -1,10 +1,4 @@
       Project: Implement a design from scratch | Holberton Laval, France Intranet
-      
-### Concepts
-
-_For this project, we expect you to look at this concept:_
-
-*   [Implement a design](/concepts/963)
 
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
 
@@ -12,7 +6,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240530%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240530T081954Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=842376fa82bef930392c8f861536deede9f90059cb530c9c2f99a08f72b36460)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241127%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241127T110745Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b0e3ac8b0343e315e8074f95fabca6bc7b96951596db86983b115d32c2eb4311)
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip "here")
 
@@ -20,6 +14,10 @@ This webpage has been designed by Nicolas Philippot, UI/UX designer. You can fin
 
 *   you are not allowed to import external CSS framework (like Bootstrap)
 *   you are not to use Javascript
+
+_For this project, we expect you to look at this concept:_
+
+*   [Implement a design](/concepts/963)
 
 Tasks
 -----
@@ -32,7 +30,7 @@ Create an account in [Figma](/rltoken/y6_o1T-HtCyTAGuOJqdA_g "Figma") and open t
 
 If you can’t access to it, please find here the [Figma file](/rltoken/tWEPFyHyXyNO9Xfi2Er2EA "Figma file")
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/559ad8d43fb61e310e2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240530%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240530T081954Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=073d2c027c598a116d86e9da364d87c050f1fba555c43f83463fb57c52a27f88)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/559ad8d43fb61e310e2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241127%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241127T110745Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4e9cab55641b7535a78258b2fd7c5ff1250b953c20532326241e27084b7733d3)
 
 Important notes with Figma:
 
@@ -73,15 +71,15 @@ Now, your turn!
 
 For this first task: **create the header/hero piece**
 
-Here an archive of all assets needed: [images\_.zip](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2020/3/d1597894d79386c83b9b.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240530%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240530T081954Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=a01cb5d8a2931b99825be22a514c0249ba17d2ced96b386edc5800e759a1c8bb "images_.zip")
+Here an archive of all assets needed: [images\_.zip](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2020/3/d1597894d79386c83b9b.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241127%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241127T110745Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=57c5acfbac6a6620eb700fc01e7703b939d39628667101527f9ae3ab70d47871 "images_.zip")
 
 **Desktop:**
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/4a93441c93989ad7ea72.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240530%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240530T081954Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d2a0a37c6727ecd73777ad276e3e59641f8e6f1ee9d92d4ddbe1ce80b0ea4b1f)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/4a93441c93989ad7ea72.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241127%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241127T110745Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a123e10cdf4dcf425aed7679387072ab4804fcfcf977ac471d705cd52ce1d4a3)
 
 **Mobile:**
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/75a582f98640445a2dbf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240530%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240530T081954Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a8ef369fb24e0979eb302728df0d6b421b20bb027e370ce8d31a0a0b306531fc)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/75a582f98640445a2dbf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241127%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241127T110745Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1b483727684777acb3db453e868ef1a4db611a4b0185e2cc07c4d91dba552ceb)
 
 **Repo:**
 
@@ -98,7 +96,7 @@ Copy files from the previous task.
 
 For this second task: **create the “What we do…” section**
 
-In this section, you will need custom font icons. Here the archive of it: [holberton\_school-icon.zip](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2020/3/7159d988278de54d859d.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240530%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240530T081954Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=d122941fc78e6bb9eec990dc3fb57efc0d9a2a230939556ed44a66118d8cbb9e "holberton_school-icon.zip") Inside you will find demo page of how to use it.
+In this section, you will need custom font icons. Here the archive of it: [holberton\_school-icon.zip](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2020/3/7159d988278de54d859d.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241127%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241127T110745Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=bab2df15e7023bd83b7bc49d029c3dab678d8596405ccb9b48f502f89318022e "holberton_school-icon.zip") Inside you will find demo page of how to use it.
 
 **Important:** try to build as generic as you can… you will probably need some components in next section.
 
@@ -155,11 +153,11 @@ When you are done, here the result:
 
 **Desktop:**
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240530%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240530T081954Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ce9a1501049795d322d5e7e0bbaef5f0227ee79b031bdafc729601c7c6cd811a)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241127%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241127T110745Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ff336923596a13e30e686ac4b8d39550fa4cb08f81f147feee0b435402f8b3df)
 
 **Mobile:**
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240530%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240530T081954Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2ff617016679f2919337af70093609ee43f0b9c123f29ad096997f7eae3389a2)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241127%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241127T110745Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=25ca6f58c03df7c8230b0d31425a4ccc84d7a3ff0cd52d9978dcc091b6fc9c3c)
 
 And you are done!
 
